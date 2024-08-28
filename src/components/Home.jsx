@@ -46,7 +46,7 @@ const Home = () => {
     return (
         <div className='text-center pt-1' >
             <div className="logo">
-                <img src="./src/assets/images/logo.png" alt="" />
+                <img src="../public/images/logo.png" alt="" />
             </div>
             <div className='plcount' >
                 <div className="total">

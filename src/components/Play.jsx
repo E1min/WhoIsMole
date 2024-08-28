@@ -48,7 +48,7 @@ const Play = () => {
   return (
     <div className='text-center'>
       <div className="logo">
-        <img src="./src/assets/images/logo.png" alt="" />
+      <img src="../public/images/logo.png" alt="" />
       </div>
       <div className="playerzone">
       {assignedWords.length > 0 && (
