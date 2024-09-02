@@ -165,3 +165,6 @@ body {
     width: 200px;
   }
 }
+div{
+    cursor: pointer;
+}
